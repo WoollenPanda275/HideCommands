@@ -4,10 +4,6 @@ version: 1.0.4
 main: Himbeer\HideCommands\Main
 api: 3.5.12
 mcpe-protocol:
-  - 389
-  - 390
-  - 407
-  - 408
   - 419
 author: Himbeer
 website: himbeer.me
